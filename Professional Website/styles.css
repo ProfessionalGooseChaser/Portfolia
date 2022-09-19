@@ -2,6 +2,10 @@ body {
     background-color: #F0E7D8;
 }
 
+h1 {
+    color: #363573;
+}
+
 p {
     color: #363573;
     text-align: center;
