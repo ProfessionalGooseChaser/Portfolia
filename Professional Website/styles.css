@@ -6,7 +6,19 @@ h1 {
     color: #363573;
 }
 
+img{
+    border:10px;
+    border-color: #F0E7D8;
+}
+
 p {
     color: #363573;
-    text-align: center;
+    text-align: left;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
 }
